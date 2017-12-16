@@ -6,7 +6,7 @@ Cyclomatic Complexity TASK 2<br><br>
 
   Name  : Sankalp Gupta<br>
   Student ID  : 17302431<br>
-  Email : guptasa@tcd.ie <br><br><br><br>
+  Email : guptasa@tcd.ie <br><br><br>
   
 <b>DEPENDENCIES</b><br><br><br>
 
@@ -14,16 +14,15 @@ Cyclomatic Complexity TASK 2<br><br>
   Flask<br>
   FlaskRestful<br>
   requests<br>
-  radon<br><br><br><br>
+  radon<br><br><br>
   
+  <b>RUN</b><br>
  
-<b>RUN</b><br>
- 
-   delegator.py
+   delegator.py<br>
    analyzer.py<br><br><br>
    
       
-<b>REPOSITORY USED</b><br>
+<b>REPOSITORY USED</b><br><br>
 
   TheAlgorithms/Python<br><br>
   
