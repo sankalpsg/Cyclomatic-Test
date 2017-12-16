@@ -8,7 +8,7 @@ Cyclomatic Complexity TASK 2<br><br>
   Student ID  : 17302431<br>
   Email : guptasa@tcd.ie <br><br><br>
   
-<b>DEPENDENCIES</b><br><br><br>
+<b>DEPENDENCIES</b><br>
 
   Python 3<br>
   Flask<br>
